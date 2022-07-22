@@ -18,6 +18,9 @@
             <column name="bairro" type="VARCHAR(255)" >
                 <constraints nullable="false"/>
             </column>
+            <column name="localidade" type="VARCHAR(255)" >
+                <constraints nullable="false"/>
+            </column>
              <column name="uf" type="VARCHAR(2)" >
                 <constraints nullable="false"/>
             </column>
